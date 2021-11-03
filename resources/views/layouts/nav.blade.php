@@ -38,7 +38,7 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="{{route('theloai.create')}}">Thêm thể loại</a>
-                        <a class="dropdown-item" href="{{route('theloai.index')}}#">Danh sách Thể Loại</a>
+                        <a class="dropdown-item" href="{{route('theloai.index')}}#">Danh sách thể loại</a>
                     </div>
                 </li>
             </ul>
